@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Projects\\Pluralsight\\GettingAndStartGitLinux\\WebJobs\\Test1\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer.csproj": {}
+  },
+  "projects": {
+    "G:\\Projects\\Pluralsight\\GettingAndStartGitLinux\\WebJobs\\Test1\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Projects\\Pluralsight\\GettingAndStartGitLinux\\WebJobs\\Test1\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer.csproj",
+        "projectName": "Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer",
+        "projectPath": "G:\\Projects\\Pluralsight\\GettingAndStartGitLinux\\WebJobs\\Test1\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer.csproj",
+        "packagesPath": "C:\\Users\\armandopitotti\\.nuget\\packages\\",
+        "outputPath": "G:\\Projects\\Pluralsight\\GettingAndStartGitLinux\\WebJobs\\Test1\\Aesys.AI.Clark.HR.Mgm.Engine.Wj.Wf.Customer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\armandopitotti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "G:\\Projects\\AesysDevOps\\Aesys-Libraries\\NuGetPkgReferences": {},
+          "G:\\Projects\\AesysDevOps\\AesysClark\\Libraries\\NuGetPkgReferences": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
